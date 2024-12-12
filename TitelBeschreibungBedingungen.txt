@@ -1,0 +1,13 @@
+Unity für Dummies: Erste Spiele mit einer GameEngine
+
+Ihr habt schonmal darüber nachgedacht etwas mit euren Informatik Skills anzufangen und Spiele zu entwickeln?
+Wenn ich euch schonmal genauer mit dem Thema befasst habt seid ihr bestimmt auf die GameEngine Unity gestoßen.
+Ob ihr schonmal von Unity gehört habt oder nicht, in diesem Workshop stellen wir euch die GameEngine Untiy vor und 
+erarbeiten gemeinsam mit euch ein erstes kleines Spiel und die Grundlagen zu Nutzung von Unity. (max. 15 Teilnehmer)
+
+Teilnahme Bedingungen
+- (optional) ein Laptop mit Unity 2022.3.18f1 installiert (wenn ihr nicht wisst wie man Unity instaliert findet ihr im Anhang eine Anleitung)
+	- das Github projekt runtergeladen auf dem Laptop. Das Projekt findet ihr unter: LINK EINFÜGEN
+- ob ihr einen eigenen Laptop mitbringt oder nicht tragt ihr bitte in diese Google Docs ein: https://docs.google.com/document/d/1yYptCRrriX0iERSpC3lYgNOTlrITp07nV5dWZmSaWs0/edit?usp=sharing
+- Informatik zumindestens in Klasse 10 noch belegt gehabt haben
+	
